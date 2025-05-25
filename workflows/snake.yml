@@ -16,8 +16,10 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # 1) Pega o código e branches
       - uses: actions/checkout@v3
 
+      # 2) Gera o snake.svg na pasta dist
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,6 +27,7 @@ jobs:
           outputs: |
             dist/snake.svg?palette=github-dark
 
+      # 3) Publica tudo dentro de dist na branch output
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
