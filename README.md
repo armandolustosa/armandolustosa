@@ -1,6 +1,9 @@
 ## Olá 👋🏼 Eu sou Armando Lustosa
 
+---
+
 💻 Graduando em **Análise e Desenvolvimento de Sistemas** | **Matemática**
+<br>
 🚧 Atualmente estudando **Vue.js** | **WordPress (Elementor)** | **Web Design** | **Desenvolvimento Web**
 
 ---
@@ -42,24 +45,24 @@
 ## 🚀 Interesses
 
 ### 👨‍💻 Desenvolvimento
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)   
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)   
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)   
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)   
 
-### ⚙️ DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⚙️ DevOps 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)   
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
 
 ### 🎨 Design & Prototipagem
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)   
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)   
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)   
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)   
 
 ---
 
@@ -75,8 +78,8 @@
 
 ## 📫 Contato
 
-[![Email](https://img.shields.io/badge/✉️-joselustosa0001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselustosa0001@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armandolustosa)
+[![Email](https://img.shields.io/badge/✉️-joselustosa0001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselustosa0001@gmail.com)   
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armandolustosa)   
 [![Lattes](https://img.shields.io/badge/Lattes-2CA332?style=for-the-badge&logo=cnpq&logoColor=white)](http://lattes.cnpq.br/1489534360029604)    
-[![Instagram](https://img.shields.io/badge/📸-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/armandolustosa)  
-[![Discord](https://img.shields.io/badge/🎮-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/armandolustosa)
+[![Instagram](https://img.shields.io/badge/📸-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/armandolustosa)   
+[![Discord](https://img.shields.io/badge/🎮-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/armandolustosa)   
