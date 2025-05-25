@@ -77,7 +77,7 @@
 ## 📫 Contato
 
 [![Email](https://img.shields.io/badge/-joselustosa0001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselustosa0001@gmail.com)   
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armandolustosa)   
-[![Lattes](https://img.shields.io/badge/🪪-Lattes-2CA332?style=for-the-badge&logo=cnpq&logoColor=white)](http://lattes.cnpq.br/1489534360029604)    
+[![🔗 LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armandolustosa)   
+[![🪪 Lattes](https://img.shields.io/badge/-Lattes-2CA332?style=for-the-badge&logo=cnpq&logoColor=white)](http://lattes.cnpq.br/1489534360029604)    
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/armandolustosa)   
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/armandolustosa)   
