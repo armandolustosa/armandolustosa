@@ -1,4 +1,4 @@
-## Olá 👋🏼 Eu sou Armando Lustosa
+## Olá, eu me chamo Armando ツ
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 Snake Activity
+## 📊 Atividade
 
 <div align="center">
   <picture>
@@ -41,8 +41,6 @@
 </div>
 
 ---
-
-## 🚀 Interesses
 
 ### 👨‍💻 Desenvolvimento
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)   
