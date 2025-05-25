@@ -1,78 +1,49 @@
-<!-- ======================== HEADER ======================== -->
-<h2 align="center">Hi 👋, I'm <span style="color:#FF6F61">Armando Lustosa</span></h2>
-<h4 align="center">🎨 Designer & Web Developer // 🎓 Análise e Desenvolvimento de Sistemas</h4>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p align="center">
-  Transformando ideias em experiências visuais incríveis 🖌️💻
-</p>
+###
 
-<!-- ======================== SNAKE ANIMATION ======================== -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armandolustosa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armandolustosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/armandolustosa/armandolustosa/output/snake.svg" alt="Snake animation" />
 
-
----
-
-<!-- ======================== GITHUB STATS ======================== -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armandolustosa&theme=dracula&show_icons=true&count_private=true&hide_border=true" 
-       alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandolustosa&theme=dracula&layout=compact&hide_border=true" 
-       alt="Top Languages" width="45%" />
-</div>
-
----
-
-<!-- ======================== SKILLS ======================== -->
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   alt="HTML5"   width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"     alt="CSS3"    width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"     width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"     alt="Vue.js"  width="32" height="32"/>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Backend & DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"         alt="PHP"    width="32" height="32"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"                             alt="MySQL" width="32" height="32"/>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Design & Others -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"     alt="Figma"  width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"         alt="Git"    width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"     alt="Linux"  width="32" height="32"/>
-</p>
-
----
-
-<!-- ======================== CONNECT ======================== -->
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:joselustosa0001@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/✉️-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height=" thirty-five px" />
-  </a>
-  <a href="https://linkedin.com/in/armandolustosa" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
-  </a>
-  <a href="https://instagram.com/armandolustosa" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/📸-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35" />
-  </a>
-  <a href="https://discord.gg/armandolustosa" target="_blank" title="Discord">
-    <img src="https://img.shields.io/badge/🎮-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35" />
-  </a>
-  <a href="https://www.google.com/search?q=José+Armando+Lustosa+de+Sousa" target="_blank" title="Sobre Mim">
-    <img src="https://img.shields.io/badge/🔍-Sobre+Mim-333333?style=for-the-badge&logo=google&logoColor=white" alt="Sobre Mim" height="35" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <sub>Made with ❤️ by <strong>Armando Lustosa</strong></sub>
-</div>
+###
