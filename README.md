@@ -1,30 +1,87 @@
-<h1 align="center">Olá 👋, eu sou Armando Lustosa</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Matemática</h3>
+<!-- ======================== HEADER ======================== -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Waving Hand" />
+  <h1>👋 Olá, eu sou <span style="color:#1ABC9C">Armando Lustosa</span></h1>
+  <p>🚀 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> | 📐 Matemática | 💻 Dev Web</p>
+</div>
 
-- 🔭 Atualmente estou trabalhando em [ADB Chamados](https://github.com/amigos-do-bem/adb-chamados-vue)
+---
 
-- 🌱 Atualmente estou aprendendo **Vue.js, WordPress (Elementor), Web Design e Desenvolvimento Web**
+<!-- ======================== PROJECTS ======================== -->
+## 🏗️ Projetos em Destaque
 
-- 🌱 Colaborei neste projeto [Termohigrômetro IoT](https://github.com/amigos-do-bem/iot-termohigrometro)
+<div align="center">
+  
+  <a href="https://github.com/amigos-do-bem/adb-chamados-vue" target="_blank">
+    <img src="https://img.shields.io/badge/🔭-ADB%20Chamados-Vue.js-42b883?logo=vue.js&logoColor=white" alt="ADB Chamados">
+  </a>
+  
+  <a href="https://github.com/amigos-do-bem/iot-termohigrometro" target="_blank">
+    <img src="https://img.shields.io/badge/🌡️-Termohigrômetro-IoT-FF6C37?logo=arduino&logoColor=white" alt="Termohigrômetro IoT">
+  </a>
 
-- 📫 Como entrar em contato comigo **joselustosa0001@gmail.com**
+</div>
 
-- 📄 Conheça minhas experiências [Trabalho no setor de TIC do MARketing da Ong AMigos do Bem](Trabalho no setor de TIC do MARketing da Ong AMigos do Bem)
+---
 
-- ⚡ Curiosidade **Além de TI, atua na área da matemática e estou
+<!-- ======================== SKILLS ======================== -->
+## 🛠️ Ferramentas & Tecnologias
 
-me formando** <h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/armandolustosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armandolustosa" height="30" width="40" /></a>
-<a href="https://instagram.com/armandolustosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armandolustosa" height="30" width="40" /></a>
-<a href="https://discord.gg/armandolustosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="armandolustosa" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="36" height="36"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/>
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandolustosa&show_icons=true&locale=en&layout=compact" alt="armandolustosa" /></p>
+<!-- ======================== LEARNING ======================== -->
+## 📚 O que estou aprendendo
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=armandolustosa&show_icons=true&locale=en" alt="armandolustosa" /></p>
+- **Vue.js Avançado** (Componentes, Vuex, Vue Router)  
+- **WordPress + Elementor** (Temas e Templates)  
+- **Web Design** (UI/UX, Figma)  
+- **Boas práticas de Desenvolvimento Web**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armandolustosa&" alt="armandolustosa" /></p>
+---
+
+<!-- ======================== CONTACT ======================== -->
+## 🔗 Conecte-se comigo
+
+<p align="center">
+  <a href="mailto:joselustosa0001@gmail.com" title="E-mail">
+    <img src="https://img.shields.io/badge/✉️-Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/armandolustosa" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/armandolustosa" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/📸-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/armandolustosa" target="_blank" title="Discord">
+    <img src="https://img.shields.io/badge/🎮-Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.google.com/search?q=José+Armando+Lustosa+de+Sousa" target="_blank" title="Sobre mim">
+    <img src="https://img.shields.io/badge/🔍-Sobre+Mim-333333?logo=google&logoColor=white" alt="Sobre mim" />
+  </a>
+</p>
+
+---
+
+<!-- ======================== STATS ======================== -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armandolustosa&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandolustosa&layout=compact&theme=dark" alt="Top Languages" width="48%"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>🎉 Feito com ❤️ por Armando Lustosa</sub>
+</div>
