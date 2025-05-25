@@ -7,9 +7,10 @@
 </p>
 
 <!-- ======================== SNAKE ANIMATION ======================== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/armandolustosa/armandolustosa/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
